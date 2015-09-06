@@ -1,5 +1,5 @@
 {
-  "match": "\\b(success|victory)\\b",
+  "match": "success|victory",
   "description": "success|victory - Show a success image",
   "listener": "hear",
   "response": [
