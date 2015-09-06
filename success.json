@@ -1,0 +1,12 @@
+{
+  "match": "\\b(success|victory)\\b",
+  "description": "success|victory - Show a success image",
+  "listener": "hear",
+  "response": [
+    "https://media.giphy.com/media/Q26nylsv3w1BS/giphy.gif",
+    "http://i0.kym-cdn.com/photos/images/newsfeed/000/185/885/SANDCASTLES.png?1318627593",
+    "https://media.giphy.com/media/uQr1ev7qkrXnq/giphy.gif",
+    "https://media.giphy.com/media/55dx3AeoTduNy/giphy.gif",
+    "https://media.giphy.com/media/suzNpqft8UU9i/giphy.gif"
+  ]
+}
