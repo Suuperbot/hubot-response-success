@@ -1,5 +1,4 @@
 {
-  "name": "hubot-response-applause",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,12 +9,13 @@
     "hubot-response",
     "success"
   ],
+  "name": "hubot-response-success",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaeljacobdavis/hubot-response-applause.git"
+    "url": "git+https://github.com/michaeljacobdavis/hubot-response-success.git"
   },
   "bugs": {
-    "url": "https://github.com/michaeljacobdavis/hubot-response-applause/issues"
+    "url": "https://github.com/michaeljacobdavis/hubot-response-success/issues"
   },
-  "homepage": "https://github.com/michaeljacobdavis/hubot-response-applause#readme"
+  "homepage": "https://github.com/michaeljacobdavis/hubot-response-success#readme"
 }
